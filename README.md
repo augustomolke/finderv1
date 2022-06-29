@@ -3,7 +3,7 @@
 Em produção .......
 Você pode ver o site em contrução através do link abaixo
 
-    https://finderv1.vercel.app/
+
 
 Car Finder, um projeto acadêmico que está sendo executado no programa Acelerra iCarros, um iniciativa de aceleração de carreira
 promovida pela Icarros empresa pertencente ao grupo (Itaú-Unibanco), em parceria com a Gama Academy.
